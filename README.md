@@ -1,9 +1,9 @@
 # Ex. No. 7 – Prompt-Based Application using ChatGPT
 
 ```
-## Date: 05/5/2025
-## Register No.: 212222100042  
-## Name: Rajesh A
+Date: 05/5/2025
+Register No.: 212222100042  
+Name: Rajesh A
 ```
 
 ---
